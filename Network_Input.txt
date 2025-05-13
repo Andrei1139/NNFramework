@@ -1,0 +1,5 @@
+Number of layers: 4
+Number of neurons in each layer: 4, 3, 3, 1
+Number of training examples: 9
+Training inputs: (0, 0, 0, 0), (0, 0, 0, 1), (0, 0, 1, 0), (0, 0, 1, 1,) (0, 1, 0, 0), (0, 1, 0, 1), (0, 1, 1, 0), (0, 1, 1, 1), (1, 0, 0, 0)
+Training outputs: 1, 0, 1, 0, 1, 0, 1, 0, 1
